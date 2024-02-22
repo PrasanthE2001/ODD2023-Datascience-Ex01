@@ -21,8 +21,8 @@ Save the Clean data to the file
 # CODE 
 # For Data_set
 ```
-# developed by: E Prasanth
-# reg no: 212221233002
+#developed by: E Prasanth
+#reg no: 212221233002
  import pandas as pd
  df=pd.read_csv("/content/Data_set .csv")
  df
